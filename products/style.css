@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+
+.navbar {
+    background-color: #eb116f;
+
+}
+
+.tex {
+    color: #b9babe;
+    text-align: center;
+}
+
+.h1 {
+    color: #eb116f;
+}
+
+.navbar-toggler {
+    color: #eb116f;
+    border: none;
+
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card {
+    border: none;
+
+}
+
+.row {
+    overflow: hidden;
+}
+
+.row {
+    justify-items: space-between;
+}

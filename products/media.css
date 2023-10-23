@@ -1,0 +1,46 @@
+@media (max-width: 992px) {
+    #toggler {
+      margin-left: 60vw;
+    }
+  
+    #search {
+      margin-left: 400px;
+      margin-top: -60px;
+    }
+  }
+
+  @media (max-width: 585px) {
+    #toggler {
+      margin-left: 80vw;
+      margin-top: -16vw;
+    }
+  
+    #search {
+      margin-left: 300px;
+      margin-top: -110px;
+    }
+  }
+  
+  @media (max-width: 460px) {
+    #toggler {
+      margin-left: 80vw;
+      margin-top: -20vw;
+    }
+  
+    #search {
+      margin-left: 70vw;
+      margin-top: -26vw;
+    }
+  }
+  
+  @media (max-width: 332px) {
+    #toggler {
+      margin-left: 70vw;
+      margin-top: -27vw;
+    }
+  
+    #search {
+      margin-left: 60vw;
+      margin-top: -33vw;
+    }
+  }
